@@ -3,6 +3,8 @@
 Proyecto Final de curso de Data Science en CoderHouse. 
 Integrantes: Rocio Spano, Roberto Prada y Rodrigo Vega Gimenez.
 
+Link del dataset en kaggle: https://www.kaggle.com/benroshan/factors-affecting-campus-placement
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
